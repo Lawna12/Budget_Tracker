@@ -6,8 +6,8 @@ const config = {
         app: "./public/index.js"
     },
     output: {
-        path : __dirname + "public/dist",
-        filename: "bundle.js"
+        path : __dirname + "/public/dist",
+        filename: "[name].bundle.js"
     },
     mode: "development",
 

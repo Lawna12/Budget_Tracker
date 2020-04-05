@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Budget tracker app that allows for offline functionality",
   "main": "server.js",
   "scripts": {
     "webpack": "webpack",
